@@ -18,7 +18,7 @@ I'm previously a research intern at **miHoYo**.
 
 # Education
 
-* Master of Science, The Hong Kong Polytechnic University, Hong Kong, China   2025 - 2027(expected)
+* Master of Science, The Hong Kong Polytechnic University, Hong Kong, China                             2025 - 2027(expected)
 
 * Bachelor of Engineering, East China University of Science and Technology, Shanghai, China   2021 - 2025
 
@@ -59,11 +59,9 @@ Supervised by Dr. **Yue Wu**, School of Information Science and Engineering, Eas
 
 ### Island Life From Zero
 
-**Island Life From Zero — Game Development**
+**Game Development**
 
-| <img src="game.png" width="400"/> | <img src="island.png" width="400"/> |
-|:-------------------------:|:-------------------------:|
-
+![](game.png)
 
 Supervised by Dr. **Ke Fang**, Tsinghua Shenzhen International Graduate School, Tsinghua University, China
 
@@ -75,9 +73,7 @@ Supervised by Dr. **Ke Fang**, Tsinghua Shenzhen International Graduate School, 
 
 **LLM‑based Interactive Chinese Poetry Learning Assistant**
 
-| <img src="ios-poetry.png" width="250"/> | <img src="poetrychat.png" width="470"/> |
-|:-------------------------:|:-------------------------:|
-
+![](poetry.png)
 
 - Designed structured prompts for text‑to‑image generation and dialogue across age groups; integrated with LangChain.
 - Implemented multimodal RAG by extracting document images and re‑captioning with BLIP2‑OPT‑6.7B for cross‑modal alignment; built vector stores for retrieval.
@@ -87,9 +83,7 @@ Supervised by Dr. **Ke Fang**, Tsinghua Shenzhen International Graduate School, 
 
 **Multi‑Granularity Lesion Cell Detection Using Deep Neural Networks**
 
-| <img src="cells.png" width="400"/> | <img src="MGLCD.png" width="400"/> |
-|:-------------------------:|:-------------------------:|
-
+![](cells.png)
 
 Supervised by Prof. **Pietro Liò**, Department of Computer Science and Technology, University of Cambridge, UK
 
@@ -111,7 +105,7 @@ Supervised by Prof. **Pietro Liò**, Department of Computer Science and Technolo
 
 **2024**
 
-* [[VTC 2024]]() **Shufan Jiang**, Bangyan Lin, Yue Wu, Yuan Gao. LINKs: LLM Integrated Management for 6G Empowered Digital Twin Networks .
+* [[VTC 2024]]() **Shufan Jiang**, Bangyan Lin, Yue Wu, Yuan Gao. LINKs: LLM Integrated Management for 6G Empowered Digital Twin Networks.
 
 ---
 
@@ -128,7 +122,7 @@ Supervised by Prof. **Pietro Liò**, Department of Computer Science and Technolo
 **CAMEL**
 
 - Integrated BFCL (Berkeley Function Calling Leaderboard) features into [camel](https://github.com/camel-ai/camel).
-- Co‑designed runnable multi‑agent tutorials in [handy‑multi‑agent](https://github.com/datawhalechina/handy-multi-agent).
+- Co‑designed multi‑agent tutorials with runnable code in [handy‑multi‑agent](https://github.com/datawhalechina/handy-multi-agent).
 
 **Others**
 
@@ -139,18 +133,18 @@ Supervised by Prof. **Pietro Liò**, Department of Computer Science and Technolo
 
 # Work Experience
 
-**miHoYo 2025**
+**2025 miHoYo**
 
-NLP Algorithm Research Intern, Lumi Group, miHoYo Network Technology Co., Ltd.
+LLM Algorithm Research Intern, Lumi Group, miHoYo Network Technology Co., Ltd.
 
-**Roche 2024**
+**2024 Roche**
 
-AI-Based Drug Design and App Development Intern, CICoR, Roche R\&D Center (China) Ltd.
+AI-Based Drug Design and App Development Intern, CICoR, Roche R&D Center (China) Ltd.
 
-**Bilibili 2023**
+**2023 Bilibili**
 
 Development Intern (LLM Direction), Corporate Efficiency Department, Shanghai Bilibili Technology Co., Ltd.
 
-**Meituan 2023**
+**2023 Meituan**
 
 Software Engineer Intern, Intelligent and Communication Technology Center, Hanhai Information Technology Co., Ltd.
