@@ -61,10 +61,8 @@ Supervised by Dr. **Yue Wu**, School of Information Science and Engineering, Eas
 
 **Island Life From Zero — Game Development**
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
-    <img src="game.png" width="400" style="max-width: 45%; height: auto;" />
-    <img src="island.png" width="400" style="max-width: 45%; height: auto;" />
-</div>
+| <img src="game.png" width="400"/> | <img src="island.png" width="400"/> |
+|:-------------------------:|:-------------------------:|
 
 
 Supervised by Dr. **Ke Fang**, Tsinghua Shenzhen International Graduate School, Tsinghua University, China
@@ -77,10 +75,8 @@ Supervised by Dr. **Ke Fang**, Tsinghua Shenzhen International Graduate School, 
 
 **LLM‑based Interactive Chinese Poetry Learning Assistant**
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
-    <img src="ios-poetry.png" width="250" style="max-width: 30%; height: auto;" />
-    <img src="poetrychat.png" width="470" style="max-width: 60%; height: auto;" />
-</div>
+| <img src="ios-poetry.png" width="250"/> | <img src="poetrychat.png" width="470"/> |
+|:-------------------------:|:-------------------------:|
 
 
 - Designed structured prompts for text‑to‑image generation and dialogue across age groups; integrated with LangChain.
@@ -91,10 +87,8 @@ Supervised by Dr. **Ke Fang**, Tsinghua Shenzhen International Graduate School, 
 
 **Multi‑Granularity Lesion Cell Detection Using Deep Neural Networks**
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
-    <img src="cells.png" width="400" style="max-width: 45%; height: auto;" />
-    <img src="MGLCD.png" width="400" style="max-width: 45%; height: auto;" />
-</div>
+| <img src="cells.png" width="400"/> | <img src="MGLCD.png" width="400"/> |
+|:-------------------------:|:-------------------------:|
 
 
 Supervised by Prof. **Pietro Liò**, Department of Computer Science and Technology, University of Cambridge, UK
