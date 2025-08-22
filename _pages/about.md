@@ -64,7 +64,8 @@ Supervised by Dr. **Yue Wu**, School of Information Science and Engineering, Eas
 <p align="center">   
     <img src="game.png" width="400" /> 
     <img src="island.png" width="400" />   
-</p></div>
+</p>
+
 
 Supervised by Dr. **Ke Fang**, Tsinghua Shenzhen International Graduate School, Tsinghua University, China
 
@@ -79,7 +80,8 @@ Supervised by Dr. **Ke Fang**, Tsinghua Shenzhen International Graduate School, 
 <p align="center">   
     <img src="ios-poetry.png" width="250" /> 
     <img src="poetrychat.png" width="470" />   
-</p></div>
+</p>
+
 
 - Designed structured prompts for text‑to‑image generation and dialogue across age groups; integrated with LangChain.
 - Implemented multimodal RAG by extracting document images and re‑captioning with BLIP2‑OPT‑6.7B for cross‑modal alignment; built vector stores for retrieval.
@@ -89,10 +91,13 @@ Supervised by Dr. **Ke Fang**, Tsinghua Shenzhen International Graduate School, 
 
 **Multi‑Granularity Lesion Cell Detection Using Deep Neural Networks**
 
-<p align="center">   
-    <img src="cells.png" width="400" /> 
-    <img src="MGLCD.png" width="400" />   
-</p></div>
+<div>
+    <p align="center">   
+        <img src="cells.png" width="400" /> 
+        <img src="MGLCD.png" width="400" />   
+    </p>
+</div>
+
 
 Supervised by Prof. **Pietro Liò**, Department of Computer Science and Technology, University of Cambridge, UK
 
